@@ -1,5 +1,5 @@
 {
   "versionCode": 1,
-  "downloadUrl": "https://s-share.samsungcloudcn.com/ls/public/v1/links/1740291546609LVtew6N/contents/1967c7d0f1ae11efa478764b37f47a1a?signature=KBNoHMgUK6vfyaIajYqss8v8IObbKY2LR_eDRbY0UEhTkP9_-JeuZWdn_cbc4X0VrhIhlm730fTKqiAtXLXuEHWfb7JPXZFXQ0rPTIZdF902xZ0q-riDOu3wQN8zoTZGowCiNbwfAKer5WHeTXxdTQ&storageType=file&name=app-debug.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/1347247787f/MobileELM/refs/heads/main/app-debug.apk",
   "releaseNotes": "增加了联网检查版本，自动更新功能。"
 }
